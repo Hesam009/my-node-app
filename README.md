@@ -17,3 +17,11 @@ It demonstrates how to:
 └── .github/
 └── workflows/
 └── main.yml # GitHub Actions CI/CD workflow
+
+## 🖥️ How to Run Locally (Without Docker)
+
+```bash
+npm install
+npm start
+Then visit: http://localhost:3000
+
